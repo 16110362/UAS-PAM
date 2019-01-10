@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">aplicación de noticias</string>
+    <string name="tv_sc">Ciencia</string>
+    <string name="tv_Tc">Tecnología</string>
+    <string name="tv_Bs">Negocio</string>
+    <string name="tv_En">Entretenimiento</string>
+    <string name="tv_sp">Deporte</string>
+    <string name="tv_hl">Salud</string>
+    <string name="action_settings">Ajuste</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

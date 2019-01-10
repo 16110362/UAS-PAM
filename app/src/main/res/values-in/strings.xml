@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aplikasi Berita</string>
+    <string name="tv_sc">Ilmu</string>
+    <string name="tv_Tc">Teknologi</string>
+    <string name="tv_Bs">Bisnis</string>
+    <string name="tv_En">Hiburan</string>
+    <string name="tv_sp">Olahraga</string>
+    <string name="tv_hl">Kesehatan</string>
+    <string name="action_settings">Pengaturan</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
